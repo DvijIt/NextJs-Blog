@@ -1,2 +1,2 @@
-/// <reference types.js="next" />
-/// <reference types.js="next/types/global" />
+// <reference types.js="next" />
+// <reference types.js="next/types/global" />
